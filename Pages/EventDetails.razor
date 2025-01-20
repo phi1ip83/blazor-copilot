@@ -1,0 +1,71 @@
+@page "/eventdetails/{eventName}"
+@inject EventService EventService
+@inject NavigationManager Navigation
+
+<h1>Event Details</h1>
+
+@if (eventDetails != null)
+{
+    <EditForm Model="eventDetails" OnValidSubmit="HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div>
+            <h2>@eventDetails.Name</h2>
+        </div>
+        <div>
+            <label>Date:</label>
+            <InputDate id="date" @bind-Value="eventDetails.Date" />
+        </div>
+        <div>
+            <label>Details:</label>
+            <InputTextArea id="details" @bind-Value="eventDetails.Details" />
+        </div>
+        <button type="submit">Save Changes</button>
+        <button type="button" @onclick="DeleteEvent">Delete Event</button>
+    </EditForm>
+}
+else
+{
+    <p>Event not found.</p>
+}
+
+@code {
+    [Parameter]
+    public string eventName { get; set; }
+
+    private Event eventDetails;
+    private string errorMessage;
+
+    protected override void OnInitialized()
+    {
+        eventDetails = EventService.GetAllEvents().FirstOrDefault(e => e.Name == eventName);
+    }
+
+    private void HandleValidSubmit()
+    {
+        try
+        {
+            EventService.EditEvent(eventDetails);
+            errorMessage = string.Empty;
+            Navigation.NavigateTo("/eventlist");
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+    }
+
+    private void DeleteEvent()
+    {
+        try
+        {
+            EventService.DeleteEvent(eventName);
+            Navigation.NavigateTo("/eventlist");
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+    }
+}

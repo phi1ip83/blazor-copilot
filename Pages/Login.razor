@@ -1,0 +1,44 @@
+@page "/login"
+@inject UserService UserService
+@inject NavigationManager Navigation
+
+<h1>Login</h1>
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger">@errorMessage</div>
+}
+
+<EditForm Model="loginModel" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <InputText id="username" @bind-Value="loginModel.Username" placeholder="Username" />
+    <InputText id="password" @bind-Value="loginModel.Password" placeholder="Password" type="password" />
+    <button type="submit">Login</button>
+</EditForm>
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+    private string errorMessage;
+
+    private void HandleValidSubmit()
+    {
+        var user = UserService.Login(loginModel.Username, loginModel.Password);
+        if (user == null)
+        {
+            errorMessage = "Invalid username or password.";
+        }
+        else
+        {
+            errorMessage = string.Empty;
+            Navigation.NavigateTo("/");
+        }
+    }
+
+    private class LoginModel
+    {
+        public string Username { get; set; }
+        public string Password { get; set; }
+    }
+}

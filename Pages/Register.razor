@@ -1,0 +1,38 @@
+@page "/register"
+@inject UserService UserService
+@inject NavigationManager Navigation
+
+<h1>Register</h1>
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger">@errorMessage</div>
+}
+
+<EditForm Model="user" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <InputText id="username" @bind-Value="user.Username" placeholder="Username" />
+    <InputText id="password" @bind-Value="user.Password" placeholder="Password" type="password" />
+    <button type="submit">Register</button>
+</EditForm>
+
+@code {
+    private User user = new User();
+    private string errorMessage;
+
+    private void HandleValidSubmit()
+    {
+        try
+        {
+            UserService.Register(user);
+            errorMessage = string.Empty;
+            Navigation.NavigateTo("/");
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+    }
+}

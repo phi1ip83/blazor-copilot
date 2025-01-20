@@ -1,0 +1,39 @@
+@page "/createevent"
+@inject EventService EventService
+@inject NavigationManager Navigation
+
+<h1>Create Event</h1>
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger">@errorMessage</div>
+}
+
+<EditForm Model="newEvent" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <InputText id="name" @bind-Value="newEvent.Name" placeholder="Event Name" />
+    <InputDate id="date" @bind-Value="newEvent.Date" />
+    <InputTextArea id="details" @bind-Value="newEvent.Details" placeholder="Event Details" />
+    <button type="submit">Create Event</button>
+</EditForm>
+
+@code {
+    private Event newEvent = new Event();
+    private string errorMessage;
+
+    private void HandleValidSubmit()
+    {
+        try
+        {
+            EventService.CreateEvent(newEvent);
+            errorMessage = string.Empty;
+            Navigation.NavigateTo("/eventlist");
+        }
+        catch (Exception ex)
+        {
+            errorMessage = ex.Message;
+        }
+    }
+}
