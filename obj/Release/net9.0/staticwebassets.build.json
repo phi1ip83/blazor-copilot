@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N8JY1UDQgPeCD7ZkxbgRJcJRr5HjlF3/U1+Z39ZzDnU=",
+  "Hash": "RB8Tompft98Cw9qslAmuALpDkzhTuobx/iv8SxOzHyc=",
   "Source": "Final",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "qs51as3q85",
-      "Integrity": "mr02qf0bMqMUWa18jg4GBk2icccgIHcQZotZqyOlfxY=",
+      "Fingerprint": "en7xwyjee9",
+      "Integrity": "+jxtDBJERmMwD0H+uToEjXQ+Q6BdoW3le580Om8oiQo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "l1lxcffkf0",
-      "Integrity": "yQCZ4+M3XgYJefO3LCVfSkIQH44fac2nfOJFad2eFAs=",
+      "Fingerprint": "1doe7ugmsu",
+      "Integrity": "K25kyW7ApRzyjhoeCQYXMtBU43bZOl60I+eGcYWSVMY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net9.0\\Final.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "hdsgcn5vma",
-      "Integrity": "pUvnfT9gJJY52alvwRODOpBVSREo3IJE8Wp64BSm8wk=",
+      "Fingerprint": "ipl9is175y",
+      "Integrity": "JujdBYVmYuEFjsZ8dAsKBkpSeZXPgnGvUny8mUAjFuM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\webcil\\Final.wasm"
@@ -7115,12 +7115,12 @@
       "OriginalItemSpec": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\hwdnm8aeld-hdsgcn5vma.gz",
+      "Identity": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\hwdnm8aeld-ipl9is175y.gz",
       "SourceId": "Final",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Final#[.{fingerprint=hdsgcn5vma}]!.wasm.gz",
+      "RelativePath": "_framework/Final#[.{fingerprint=ipl9is175y}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7129,8 +7129,8 @@
       "RelatedAsset": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\bin\\Release\\net9.0\\wwwroot\\_framework\\Final.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "or3ijxsgpc",
-      "Integrity": "lLpl4WcvqZwUgbaOTACsgAxSXwKVlM9/ReKiVXVcwtQ=",
+      "Fingerprint": "cj7sexxu3i",
+      "Integrity": "KJcxKfVyxN4fxNSqBj341kkeZAPyJbp41WD7TjHRnA4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\bin\\Release\\net9.0\\wwwroot\\_framework\\Final.wasm"
@@ -7766,7 +7766,7 @@
       "OriginalItemSpec": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\bin\\Release\\net9.0\\wwwroot\\_framework\\System.Net.wasm"
     },
     {
-      "Identity": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\mxlz7nh76f-qs51as3q85.gz",
+      "Identity": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\mxlz7nh76f-en7xwyjee9.gz",
       "SourceId": "Final",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\",
@@ -7780,8 +7780,8 @@
       "RelatedAsset": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\bin\\Release\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hab9vljldv",
-      "Integrity": "aQTTD3jLvJJFHoVpFVEnV2ROoSi4FLXjpnEWePUcIaU=",
+      "Fingerprint": "3j20kumsad",
+      "Integrity": "zzgo2LcgPiktxFwo+P6oRvtcDLEL5EOxUtYcpjQDExk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\bin\\Release\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8018,12 +8018,12 @@
       "OriginalItemSpec": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\bin\\Release\\net9.0\\wwwroot\\_framework\\System.Numerics.wasm"
     },
     {
-      "Identity": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\odwxr2ng90-z11owna19g.gz",
+      "Identity": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\odwxr2ng90-dcf3hdlo1c.gz",
       "SourceId": "Final",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=z11owna19g}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=dcf3hdlo1c}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8032,8 +8032,8 @@
       "RelatedAsset": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "k2gdra05oh",
-      "Integrity": "nDUbC1JgdVNwb76xZKOfCoxC4fjejlGB8nXdGUO/rJ8=",
+      "Fingerprint": "pm2ozrlyyo",
+      "Integrity": "UULkKYhnluRRalMd+O9wmJulwn8k95flIM306jj0iMw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\wwwroot\\index.html"
@@ -8648,12 +8648,12 @@
       "OriginalItemSpec": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\bin\\Release\\net9.0\\wwwroot\\_framework\\System.Diagnostics.Tools.wasm"
     },
     {
-      "Identity": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\tgg4sfgjtv-l1lxcffkf0.gz",
+      "Identity": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\tgg4sfgjtv-1doe7ugmsu.gz",
       "SourceId": "Final",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Final#[.{fingerprint=l1lxcffkf0}]!.pdb.gz",
+      "RelativePath": "_framework/Final#[.{fingerprint=1doe7ugmsu}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8662,8 +8662,8 @@
       "RelatedAsset": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\bin\\Release\\net9.0\\wwwroot\\_framework\\Final.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "edcwyqwrz0",
-      "Integrity": "Xi+n5kqtu52+Ff/x0UBG/5ANHifPKLir39hzc/N1cAM=",
+      "Fingerprint": "53v4l8u2th",
+      "Integrity": "YSu0RrWFM3xHa4ln4UrehLDC3Y8b3LOdwof9AnW2HFA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\bin\\Release\\net9.0\\wwwroot\\_framework\\Final.pdb"
@@ -9733,8 +9733,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "z11owna19g",
-      "Integrity": "qSj4gQ0nkOXai7+FuU3/XHTyjxCHtGq4MkwHAeluuEA=",
+      "Fingerprint": "dcf3hdlo1c",
+      "Integrity": "kzo8OsJA/h/N4Yr/ly1rsCiGrSWW1R8POjfWQnTp/W8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -10705,11 +10705,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mr02qf0bMqMUWa18jg4GBk2icccgIHcQZotZqyOlfxY=\""
+          "Value": "\"+jxtDBJERmMwD0H+uToEjXQ+Q6BdoW3le580Om8oiQo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:35 GMT"
+          "Value": "Mon, 20 Jan 2025 22:14:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10719,18 +10719,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mr02qf0bMqMUWa18jg4GBk2icccgIHcQZotZqyOlfxY="
+          "Value": "sha256-+jxtDBJERmMwD0H+uToEjXQ+Q6BdoW3le580Om8oiQo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\mxlz7nh76f-qs51as3q85.gz",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\mxlz7nh76f-en7xwyjee9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081201786"
+          "Quality": "0.000081228170"
         }
       ],
       "ResponseHeaders": [
@@ -10740,15 +10740,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12314"
+          "Value": "12310"
         },
         {
           "Name": "ETag",
-          "Value": "\"aQTTD3jLvJJFHoVpFVEnV2ROoSi4FLXjpnEWePUcIaU=\""
+          "Value": "\"zzgo2LcgPiktxFwo+P6oRvtcDLEL5EOxUtYcpjQDExk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:35 GMT"
+          "Value": "Mon, 20 Jan 2025 22:14:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"mr02qf0bMqMUWa18jg4GBk2icccgIHcQZotZqyOlfxY=\""
+          "Value": "W/\"+jxtDBJERmMwD0H+uToEjXQ+Q6BdoW3le580Om8oiQo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mr02qf0bMqMUWa18jg4GBk2icccgIHcQZotZqyOlfxY="
+          "Value": "sha256-+jxtDBJERmMwD0H+uToEjXQ+Q6BdoW3le580Om8oiQo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\mxlz7nh76f-qs51as3q85.gz",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\mxlz7nh76f-en7xwyjee9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12314"
+          "Value": "12310"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aQTTD3jLvJJFHoVpFVEnV2ROoSi4FLXjpnEWePUcIaU=\""
+          "Value": "\"zzgo2LcgPiktxFwo+P6oRvtcDLEL5EOxUtYcpjQDExk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:35 GMT"
+          "Value": "Mon, 20 Jan 2025 22:14:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aQTTD3jLvJJFHoVpFVEnV2ROoSi4FLXjpnEWePUcIaU="
+          "Value": "sha256-zzgo2LcgPiktxFwo+P6oRvtcDLEL5EOxUtYcpjQDExk="
         }
       ]
     },
@@ -12749,168 +12749,7 @@
       ]
     },
     {
-      "Route": "_framework/Final.hdsgcn5vma.wasm",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\bin\\Release\\net9.0\\wwwroot\\_framework\\Final.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33557"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pUvnfT9gJJY52alvwRODOpBVSREo3IJE8Wp64BSm8wk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hdsgcn5vma"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Final.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pUvnfT9gJJY52alvwRODOpBVSREo3IJE8Wp64BSm8wk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Final.hdsgcn5vma.wasm",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\hwdnm8aeld-hdsgcn5vma.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000074443535"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13432"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lLpl4WcvqZwUgbaOTACsgAxSXwKVlM9/ReKiVXVcwtQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"pUvnfT9gJJY52alvwRODOpBVSREo3IJE8Wp64BSm8wk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hdsgcn5vma"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Final.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pUvnfT9gJJY52alvwRODOpBVSREo3IJE8Wp64BSm8wk="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Final.hdsgcn5vma.wasm.gz",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\hwdnm8aeld-hdsgcn5vma.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13432"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lLpl4WcvqZwUgbaOTACsgAxSXwKVlM9/ReKiVXVcwtQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hdsgcn5vma"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Final.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lLpl4WcvqZwUgbaOTACsgAxSXwKVlM9/ReKiVXVcwtQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Final.l1lxcffkf0.pdb",
+      "Route": "_framework/Final.1doe7ugmsu.pdb",
       "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\bin\\Release\\net9.0\\wwwroot\\_framework\\Final.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -12920,7 +12759,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37668"
+          "Value": "36940"
         },
         {
           "Name": "Content-Type",
@@ -12928,11 +12767,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yQCZ4+M3XgYJefO3LCVfSkIQH44fac2nfOJFad2eFAs=\""
+          "Value": "\"K25kyW7ApRzyjhoeCQYXMtBU43bZOl60I+eGcYWSVMY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:33 GMT"
+          "Value": "Mon, 20 Jan 2025 21:47:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12942,7 +12781,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l1lxcffkf0"
+          "Value": "1doe7ugmsu"
         },
         {
           "Name": "label",
@@ -12950,18 +12789,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yQCZ4+M3XgYJefO3LCVfSkIQH44fac2nfOJFad2eFAs="
+          "Value": "sha256-K25kyW7ApRzyjhoeCQYXMtBU43bZOl60I+eGcYWSVMY="
         }
       ]
     },
     {
-      "Route": "_framework/Final.l1lxcffkf0.pdb",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\tgg4sfgjtv-l1lxcffkf0.gz",
+      "Route": "_framework/Final.1doe7ugmsu.pdb",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\tgg4sfgjtv-1doe7ugmsu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000034107575"
+          "Quality": "0.000034889401"
         }
       ],
       "ResponseHeaders": [
@@ -12971,15 +12810,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29318"
+          "Value": "28661"
         },
         {
           "Name": "ETag",
-          "Value": "\"Xi+n5kqtu52+Ff/x0UBG/5ANHifPKLir39hzc/N1cAM=\""
+          "Value": "\"YSu0RrWFM3xHa4ln4UrehLDC3Y8b3LOdwof9AnW2HFA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:35 GMT"
+          "Value": "Mon, 20 Jan 2025 21:47:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12999,13 +12838,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yQCZ4+M3XgYJefO3LCVfSkIQH44fac2nfOJFad2eFAs=\""
+          "Value": "W/\"K25kyW7ApRzyjhoeCQYXMtBU43bZOl60I+eGcYWSVMY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l1lxcffkf0"
+          "Value": "1doe7ugmsu"
         },
         {
           "Name": "label",
@@ -13013,13 +12852,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yQCZ4+M3XgYJefO3LCVfSkIQH44fac2nfOJFad2eFAs="
+          "Value": "sha256-K25kyW7ApRzyjhoeCQYXMtBU43bZOl60I+eGcYWSVMY="
         }
       ]
     },
     {
-      "Route": "_framework/Final.l1lxcffkf0.pdb.gz",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\tgg4sfgjtv-l1lxcffkf0.gz",
+      "Route": "_framework/Final.1doe7ugmsu.pdb.gz",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\tgg4sfgjtv-1doe7ugmsu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13028,7 +12867,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29318"
+          "Value": "28661"
         },
         {
           "Name": "Content-Type",
@@ -13036,11 +12875,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xi+n5kqtu52+Ff/x0UBG/5ANHifPKLir39hzc/N1cAM=\""
+          "Value": "\"YSu0RrWFM3xHa4ln4UrehLDC3Y8b3LOdwof9AnW2HFA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:35 GMT"
+          "Value": "Mon, 20 Jan 2025 21:47:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13058,7 +12897,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l1lxcffkf0"
+          "Value": "1doe7ugmsu"
         },
         {
           "Name": "label",
@@ -13066,7 +12905,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xi+n5kqtu52+Ff/x0UBG/5ANHifPKLir39hzc/N1cAM="
+          "Value": "sha256-YSu0RrWFM3xHa4ln4UrehLDC3Y8b3LOdwof9AnW2HFA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Final.ipl9is175y.wasm",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\bin\\Release\\net9.0\\wwwroot\\_framework\\Final.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JujdBYVmYuEFjsZ8dAsKBkpSeZXPgnGvUny8mUAjFuM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:47:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ipl9is175y"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Final.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JujdBYVmYuEFjsZ8dAsKBkpSeZXPgnGvUny8mUAjFuM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Final.ipl9is175y.wasm",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\hwdnm8aeld-ipl9is175y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000074421374"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13436"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KJcxKfVyxN4fxNSqBj341kkeZAPyJbp41WD7TjHRnA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:47:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JujdBYVmYuEFjsZ8dAsKBkpSeZXPgnGvUny8mUAjFuM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ipl9is175y"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Final.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JujdBYVmYuEFjsZ8dAsKBkpSeZXPgnGvUny8mUAjFuM="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Final.ipl9is175y.wasm.gz",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\hwdnm8aeld-ipl9is175y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KJcxKfVyxN4fxNSqBj341kkeZAPyJbp41WD7TjHRnA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 21:47:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ipl9is175y"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Final.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KJcxKfVyxN4fxNSqBj341kkeZAPyJbp41WD7TjHRnA4="
         }
       ]
     },
@@ -13081,7 +13081,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37668"
+          "Value": "36940"
         },
         {
           "Name": "Content-Type",
@@ -13089,11 +13089,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yQCZ4+M3XgYJefO3LCVfSkIQH44fac2nfOJFad2eFAs=\""
+          "Value": "\"K25kyW7ApRzyjhoeCQYXMtBU43bZOl60I+eGcYWSVMY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:33 GMT"
+          "Value": "Mon, 20 Jan 2025 21:47:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13103,18 +13103,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yQCZ4+M3XgYJefO3LCVfSkIQH44fac2nfOJFad2eFAs="
+          "Value": "sha256-K25kyW7ApRzyjhoeCQYXMtBU43bZOl60I+eGcYWSVMY="
         }
       ]
     },
     {
       "Route": "_framework/Final.pdb",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\tgg4sfgjtv-l1lxcffkf0.gz",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\tgg4sfgjtv-1doe7ugmsu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000034107575"
+          "Quality": "0.000034889401"
         }
       ],
       "ResponseHeaders": [
@@ -13124,15 +13124,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29318"
+          "Value": "28661"
         },
         {
           "Name": "ETag",
-          "Value": "\"Xi+n5kqtu52+Ff/x0UBG/5ANHifPKLir39hzc/N1cAM=\""
+          "Value": "\"YSu0RrWFM3xHa4ln4UrehLDC3Y8b3LOdwof9AnW2HFA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:35 GMT"
+          "Value": "Mon, 20 Jan 2025 21:47:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13152,19 +13152,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yQCZ4+M3XgYJefO3LCVfSkIQH44fac2nfOJFad2eFAs=\""
+          "Value": "W/\"K25kyW7ApRzyjhoeCQYXMtBU43bZOl60I+eGcYWSVMY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yQCZ4+M3XgYJefO3LCVfSkIQH44fac2nfOJFad2eFAs="
+          "Value": "sha256-K25kyW7ApRzyjhoeCQYXMtBU43bZOl60I+eGcYWSVMY="
         }
       ]
     },
     {
       "Route": "_framework/Final.pdb.gz",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\tgg4sfgjtv-l1lxcffkf0.gz",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\tgg4sfgjtv-1doe7ugmsu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13173,7 +13173,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29318"
+          "Value": "28661"
         },
         {
           "Name": "Content-Type",
@@ -13181,11 +13181,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xi+n5kqtu52+Ff/x0UBG/5ANHifPKLir39hzc/N1cAM=\""
+          "Value": "\"YSu0RrWFM3xHa4ln4UrehLDC3Y8b3LOdwof9AnW2HFA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:35 GMT"
+          "Value": "Mon, 20 Jan 2025 21:47:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13203,7 +13203,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xi+n5kqtu52+Ff/x0UBG/5ANHifPKLir39hzc/N1cAM="
+          "Value": "sha256-YSu0RrWFM3xHa4ln4UrehLDC3Y8b3LOdwof9AnW2HFA="
         }
       ]
     },
@@ -13226,11 +13226,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pUvnfT9gJJY52alvwRODOpBVSREo3IJE8Wp64BSm8wk=\""
+          "Value": "\"JujdBYVmYuEFjsZ8dAsKBkpSeZXPgnGvUny8mUAjFuM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:34 GMT"
+          "Value": "Mon, 20 Jan 2025 21:47:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13240,18 +13240,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pUvnfT9gJJY52alvwRODOpBVSREo3IJE8Wp64BSm8wk="
+          "Value": "sha256-JujdBYVmYuEFjsZ8dAsKBkpSeZXPgnGvUny8mUAjFuM="
         }
       ]
     },
     {
       "Route": "_framework/Final.wasm",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\hwdnm8aeld-hdsgcn5vma.gz",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\hwdnm8aeld-ipl9is175y.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000074443535"
+          "Quality": "0.000074421374"
         }
       ],
       "ResponseHeaders": [
@@ -13261,15 +13261,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13432"
+          "Value": "13436"
         },
         {
           "Name": "ETag",
-          "Value": "\"lLpl4WcvqZwUgbaOTACsgAxSXwKVlM9/ReKiVXVcwtQ=\""
+          "Value": "\"KJcxKfVyxN4fxNSqBj341kkeZAPyJbp41WD7TjHRnA4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:35 GMT"
+          "Value": "Mon, 20 Jan 2025 21:47:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13289,19 +13289,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pUvnfT9gJJY52alvwRODOpBVSREo3IJE8Wp64BSm8wk=\""
+          "Value": "W/\"JujdBYVmYuEFjsZ8dAsKBkpSeZXPgnGvUny8mUAjFuM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pUvnfT9gJJY52alvwRODOpBVSREo3IJE8Wp64BSm8wk="
+          "Value": "sha256-JujdBYVmYuEFjsZ8dAsKBkpSeZXPgnGvUny8mUAjFuM="
         }
       ]
     },
     {
       "Route": "_framework/Final.wasm.gz",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\hwdnm8aeld-hdsgcn5vma.gz",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\hwdnm8aeld-ipl9is175y.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13310,7 +13310,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13432"
+          "Value": "13436"
         },
         {
           "Name": "Content-Type",
@@ -13318,11 +13318,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lLpl4WcvqZwUgbaOTACsgAxSXwKVlM9/ReKiVXVcwtQ=\""
+          "Value": "\"KJcxKfVyxN4fxNSqBj341kkeZAPyJbp41WD7TjHRnA4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 21:19:35 GMT"
+          "Value": "Mon, 20 Jan 2025 21:47:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13340,7 +13340,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lLpl4WcvqZwUgbaOTACsgAxSXwKVlM9/ReKiVXVcwtQ="
+          "Value": "sha256-KJcxKfVyxN4fxNSqBj341kkeZAPyJbp41WD7TjHRnA4="
         }
       ]
     },
@@ -72215,13 +72215,13 @@
       ]
     },
     {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\odwxr2ng90-z11owna19g.gz",
+      "Route": "index.dcf3hdlo1c.html",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\odwxr2ng90-dcf3hdlo1c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002141327623"
+          "Quality": "0.002036659878"
         }
       ],
       "ResponseHeaders": [
@@ -72231,19 +72231,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "466"
+          "Value": "490"
         },
         {
           "Name": "ETag",
-          "Value": "\"nDUbC1JgdVNwb76xZKOfCoxC4fjejlGB8nXdGUO/rJ8=\""
+          "Value": "\"UULkKYhnluRRalMd+O9wmJulwn8k95flIM306jj0iMw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 20:20:07 GMT"
+          "Value": "Mon, 20 Jan 2025 22:12:50 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -72259,18 +72259,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qSj4gQ0nkOXai7+FuU3/XHTyjxCHtGq4MkwHAeluuEA=\""
+          "Value": "W/\"kzo8OsJA/h/N4Yr/ly1rsCiGrSWW1R8POjfWQnTp/W8=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "dcf3hdlo1c"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-qSj4gQ0nkOXai7+FuU3/XHTyjxCHtGq4MkwHAeluuEA="
+          "Value": "sha256-kzo8OsJA/h/N4Yr/ly1rsCiGrSWW1R8POjfWQnTp/W8="
         }
       ]
     },
     {
-      "Route": "index.html",
+      "Route": "index.dcf3hdlo1c.html",
       "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -72280,7 +72288,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "965"
+          "Value": "1001"
         },
         {
           "Name": "Content-Type",
@@ -72288,121 +72296,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qSj4gQ0nkOXai7+FuU3/XHTyjxCHtGq4MkwHAeluuEA=\""
+          "Value": "\"kzo8OsJA/h/N4Yr/ly1rsCiGrSWW1R8POjfWQnTp/W8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 20:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qSj4gQ0nkOXai7+FuU3/XHTyjxCHtGq4MkwHAeluuEA="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\odwxr2ng90-z11owna19g.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "466"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nDUbC1JgdVNwb76xZKOfCoxC4fjejlGB8nXdGUO/rJ8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 20:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nDUbC1JgdVNwb76xZKOfCoxC4fjejlGB8nXdGUO/rJ8="
-        }
-      ]
-    },
-    {
-      "Route": "index.z11owna19g.html",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\odwxr2ng90-z11owna19g.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002141327623"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "466"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nDUbC1JgdVNwb76xZKOfCoxC4fjejlGB8nXdGUO/rJ8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 20:20:07 GMT"
+          "Value": "Mon, 20 Jan 2025 22:12:50 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"qSj4gQ0nkOXai7+FuU3/XHTyjxCHtGq4MkwHAeluuEA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z11owna19g"
+          "Value": "dcf3hdlo1c"
         },
         {
           "Name": "label",
@@ -72410,13 +72318,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qSj4gQ0nkOXai7+FuU3/XHTyjxCHtGq4MkwHAeluuEA="
+          "Value": "sha256-kzo8OsJA/h/N4Yr/ly1rsCiGrSWW1R8POjfWQnTp/W8="
         }
       ]
     },
     {
-      "Route": "index.z11owna19g.html",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\wwwroot\\index.html",
+      "Route": "index.dcf3hdlo1c.html.gz",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\odwxr2ng90-dcf3hdlo1c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72425,7 +72333,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "965"
+          "Value": "490"
         },
         {
           "Name": "Content-Type",
@@ -72433,56 +72341,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qSj4gQ0nkOXai7+FuU3/XHTyjxCHtGq4MkwHAeluuEA=\""
+          "Value": "\"UULkKYhnluRRalMd+O9wmJulwn8k95flIM306jj0iMw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 20:20:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "z11owna19g"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qSj4gQ0nkOXai7+FuU3/XHTyjxCHtGq4MkwHAeluuEA="
-        }
-      ]
-    },
-    {
-      "Route": "index.z11owna19g.html.gz",
-      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\odwxr2ng90-z11owna19g.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "466"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nDUbC1JgdVNwb76xZKOfCoxC4fjejlGB8nXdGUO/rJ8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 20:20:07 GMT"
+          "Value": "Mon, 20 Jan 2025 22:12:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72500,7 +72363,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z11owna19g"
+          "Value": "dcf3hdlo1c"
         },
         {
           "Name": "label",
@@ -72508,7 +72371,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nDUbC1JgdVNwb76xZKOfCoxC4fjejlGB8nXdGUO/rJ8="
+          "Value": "sha256-UULkKYhnluRRalMd+O9wmJulwn8k95flIM306jj0iMw="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\odwxr2ng90-dcf3hdlo1c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002036659878"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "490"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UULkKYhnluRRalMd+O9wmJulwn8k95flIM306jj0iMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 22:12:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kzo8OsJA/h/N4Yr/ly1rsCiGrSWW1R8POjfWQnTp/W8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kzo8OsJA/h/N4Yr/ly1rsCiGrSWW1R8POjfWQnTp/W8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kzo8OsJA/h/N4Yr/ly1rsCiGrSWW1R8POjfWQnTp/W8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 22:12:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kzo8OsJA/h/N4Yr/ly1rsCiGrSWW1R8POjfWQnTp/W8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\phili\\OneDrive\\Documents\\corsera\\4 of 12\\Final\\obj\\Release\\net9.0\\compressed\\odwxr2ng90-dcf3hdlo1c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "490"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UULkKYhnluRRalMd+O9wmJulwn8k95flIM306jj0iMw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 22:12:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UULkKYhnluRRalMd+O9wmJulwn8k95flIM306jj0iMw="
         }
       ]
     },

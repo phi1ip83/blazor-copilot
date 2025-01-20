@@ -6,8 +6,6 @@ C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwro
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\dotnet.native.p4lwlf2bu1.wasm
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.o8gq1i8bk6.js
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.js.map
-C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\Final.l1lxcffkf0.pdb
-C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\Final.hdsgcn5vma.wasm
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
@@ -311,7 +309,6 @@ C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwro
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\System.Threading.ThreadPool.ci0en3br7m.wasm.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\System.IO.FileSystem.b282acjng3.wasm.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\dotnet.js.gz
-C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\Final.hdsgcn5vma.wasm.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\dotnet.native.p4lwlf2bu1.wasm.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\System.Reflection.DispatchProxy.scv6i6bo0g.wasm.gz
@@ -369,7 +366,6 @@ C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwro
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\System.Net.Http.n441jzfnj6.wasm.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\mscorlib.o0184ey5ia.wasm.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\System.Diagnostics.Tools.zgykqiy9oc.wasm.gz
-C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\Final.l1lxcffkf0.pdb.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\System.Security.AccessControl.b789wsqmaa.wasm.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\System.Globalization.0phgw2xrn5.wasm.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.nhgzf5z28r.wasm.gz
@@ -816,7 +812,6 @@ C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\scope
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\blazor.build.boot-extension.json
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\blazor.boot.json
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\wi6hc749mj-8rbvw3on5j.gz
-C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\odwxr2ng90-z11owna19g.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\k5ig1zx6wh-bqjiyaj88i.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\4pzt3mvvwl-c2jlpeoesf.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\g8o8cymd01-erw9l3u2r3.gz
@@ -1065,9 +1060,6 @@ C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compr
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\i718l7kv8q-tjcz0u77k5.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\b5rp3ovfmk-tptq2av103.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\ryzny2h9sq-lfu7j35m59.gz
-C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\hwdnm8aeld-hdsgcn5vma.gz
-C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\tgg4sfgjtv-l1lxcffkf0.gz
-C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\mxlz7nh76f-qs51as3q85.gz
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\staticwebassets.development.json
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\staticwebassets.build.endpoints.json
@@ -1082,3 +1074,15 @@ C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\Final
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\refint\Final.dll
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\Final.pdb
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\ref\Final.dll
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\Final.1doe7ugmsu.pdb
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\Final.ipl9is175y.wasm
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\Final.ipl9is175y.wasm.gz
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\wwwroot\_framework\Final.1doe7ugmsu.pdb.gz
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\hwdnm8aeld-ipl9is175y.gz
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\tgg4sfgjtv-1doe7ugmsu.gz
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\mxlz7nh76f-en7xwyjee9.gz
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\publish\web.config
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\publish\docs\sample-data\weather.json
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\publish\docs\_framework\blazor.boot.json
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\publish\Final.staticwebassets.endpoints.json
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\obj\Release\net9.0\compressed\odwxr2ng90-dcf3hdlo1c.gz

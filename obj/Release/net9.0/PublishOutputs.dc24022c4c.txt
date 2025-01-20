@@ -1,1 +1,5 @@
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\publish\publish\web.config
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\publish\publish\docs\sample-data\weather.json
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\publish\publish\docs\_framework\blazor.boot.json
+C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\publish\publish\Final.staticwebassets.endpoints.json
 C:\Users\phili\OneDrive\Documents\corsera\4 of 12\Final\bin\Release\net9.0\publish\web.config
